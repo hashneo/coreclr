@@ -1,5 +1,5 @@
 # coreclr
-Dockerfile to build Microsoft coreclr in docker
+Dockerfile to build Microsofts coreclr (DotNet) in docker
 
 To run:
 * Make sure you have [boot2docker](http://boot2docker.io) installed and running on OS X or [docker](https://docs.docker.com/installation/ubuntulinux/) on Linux
